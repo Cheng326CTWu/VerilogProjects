@@ -8,3 +8,45 @@ z2
 !i10f 100
 cModel Technology
 dC:/Users/Owner/Desktop/verilog/VerilogProjects/ALU
+vfifo
+!s110 1597437694
+!i10b 1
+!s100 OZ9a3Dj47X9L=aV`FBVF]0
+IUkLzA[i:kPN2?<TCTE90;3
+Z0 VDg1SIo80bB@j0V0VzS_@n1
+Z1 dC:/Users/Owner/Desktop/verilog/VerilogProjects/FIFO_memory
+w1597437684
+8C:/Users/Owner/Desktop/verilog/VerilogProjects/FIFO_memory/fifo.v
+FC:/Users/Owner/Desktop/verilog/VerilogProjects/FIFO_memory/fifo.v
+L0 1
+Z2 OP;L;10.4a;61
+r1
+!s85 0
+31
+!s108 1597437694.000000
+!s107 C:/Users/Owner/Desktop/verilog/VerilogProjects/FIFO_memory/fifo.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Owner/Desktop/verilog/VerilogProjects/FIFO_memory/fifo.v|
+!s101 -O0
+!i113 1
+Z3 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact -O0
+vfifo_tb
+!s110 1597437695
+!i10b 1
+!s100 D9kXj3fcKmOBll4@zA5Qa3
+I8oO]ER<K?`_GcWe8UIQb:2
+R0
+R1
+w1597437442
+8C:/Users/Owner/Desktop/verilog/VerilogProjects/FIFO_memory/fifo_tb.v
+FC:/Users/Owner/Desktop/verilog/VerilogProjects/FIFO_memory/fifo_tb.v
+L0 3
+R2
+r1
+!s85 0
+31
+!s108 1597437695.000000
+!s107 C:/Users/Owner/Desktop/verilog/VerilogProjects/FIFO_memory/fifo_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Owner/Desktop/verilog/VerilogProjects/FIFO_memory/fifo_tb.v|
+!s101 -O0
+!i113 1
+R3

@@ -1,1 +1,8 @@
+C:/Users/Owner/Desktop/verilog/VerilogProjects/FIFO_memory/fifo_tb.v {1 {vlog -work work -stats=none C:/Users/Owner/Desktop/verilog/VerilogProjects/FIFO_memory/fifo_tb.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module fifo_tb
 
+Top level modules:
+	fifo_tb
+
+} {} {}}
