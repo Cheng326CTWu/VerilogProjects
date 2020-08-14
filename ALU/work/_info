@@ -8,3 +8,45 @@ z2
 !i10f 100
 cModel Technology
 dC:/Users/Owner/Desktop/verilog/VerilogPractice/binary_subtractor
+valu
+Z0 !s110 1597430440
+!i10b 1
+!s100 aKjJ@Dc>DINLUQ=F[e9U73
+I1Nj0:T>L6hR@9:jc[_lBO2
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dC:/Users/Owner/Desktop/verilog/VerilogProjects/ALU
+w1597372227
+8C:/Users/Owner/Desktop/verilog/VerilogProjects/ALU/alu.v
+FC:/Users/Owner/Desktop/verilog/VerilogProjects/ALU/alu.v
+L0 1
+Z3 OP;L;10.4a;61
+r1
+!s85 0
+31
+Z4 !s108 1597430440.000000
+!s107 C:/Users/Owner/Desktop/verilog/VerilogProjects/ALU/alu.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Owner/Desktop/verilog/VerilogProjects/ALU/alu.v|
+!s101 -O0
+!i113 1
+Z5 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact -O0
+valu_tb
+R0
+!i10b 1
+!s100 3Sj]9[Q[J6?i=9Rh[eWKL1
+IYjCFHoKhDadEDdmGNJ=gz1
+R1
+R2
+w1597430435
+8C:/Users/Owner/Desktop/verilog/VerilogProjects/ALU/alu_tb.v
+FC:/Users/Owner/Desktop/verilog/VerilogProjects/ALU/alu_tb.v
+L0 3
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/Owner/Desktop/verilog/VerilogProjects/ALU/alu_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Owner/Desktop/verilog/VerilogProjects/ALU/alu_tb.v|
+!s101 -O0
+!i113 1
+R5
